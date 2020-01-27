@@ -1,0 +1,33 @@
+
+        h1 {
+            color:purple; font-size: 56px
+        }
+        img {
+            border-color: rgb(66, 39, 66);
+            border-width: 3px;
+            border-style: solid
+            
+        }
+        h2 {
+        color:rgb(82, 51, 82); font-size: 30px
+    }
+    article{
+        border: 3px solid ghostwhite;
+        border-radius: 5px;
+        margin: 5px;
+        background-color: antiquewhite;
+        padding: 10px;
+
+    }
+    
+header{
+    background-color: gold;
+    border-radius: 10px;
+}
+nav{
+    color:black;
+    background-color: rgb(105, 99, 61)
+}
+li{
+    list-style-type: none
+}
